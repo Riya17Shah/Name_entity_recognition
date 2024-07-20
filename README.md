@@ -1,3 +1,5 @@
 # Name_entity_recognition
 <br>
-# In this Project 
+# Name Entity Recognition using LSTM
+<br> 
+
