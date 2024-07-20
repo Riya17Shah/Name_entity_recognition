@@ -1,6 +1,7 @@
 # Name_entity_recognition
 <br>
 # Name Entity Recognition using LSTM
-#<br> 
+<br> 
+
 The data has columns like Sentence ID, POS , Tag , Word 
 
