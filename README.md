@@ -9,3 +9,9 @@ I have preprocessed text and Used LSTM model.
 <br />
 
 ** Libraries Used ** <br />
+<br />
+Pandas
+<br />
+Numpy
+<br />
+Tensorflow
