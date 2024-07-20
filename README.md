@@ -4,4 +4,7 @@
 <br> 
 
 The data has columns like Sentence ID, POS , Tag , Word 
+//
+I have preprocessed text and Used LSTM model.
+//
 
